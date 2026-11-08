@@ -908,10 +908,6 @@ img.is-missing {
 .reviews__viewport.is-ready .reviews__track {
   animation: reviews-scroll var(--reviews-duration, 48s) linear infinite;
 }
-.reviews__viewport:hover .reviews__track,
-.reviews__viewport:focus-within .reviews__track {
-  animation-play-state: paused;
-}
 
 /* Desloca exatamente metade da faixa (cartões originais + clones) + meio espaçamento */
 @keyframes reviews-scroll {
