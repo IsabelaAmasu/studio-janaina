@@ -1,0 +1,22 @@
+FOTOS DO PORTFÓLIO — Studio Janaina Oficiall
+=============================================
+
+Coloque nesta pasta as fotos reais do trabalho da Janaína, com EXATAMENTE estes nomes
+(formato .jpg). Enquanto uma foto não existir, o site mostra um quadro roxo com o
+texto "Foto do portfólio" no lugar.
+
+  hero.jpg         Fundo da primeira dobra. Cabelo longo, liso, alinhado e com brilho.
+                   Formato horizontal (ideal: 1920x1080) ou foto grande de boa resolução.
+  janaina.jpg      Foto da Janaína (seção "Sobre"). Formato vertical 4:5 (ex.: 1080x1350).
+  resultado-1.jpg  Foto DESTAQUE da galeria (aparece grande). Vertical 4:5.
+  resultado-2.jpg  Galeria — vertical 4:5.
+  resultado-3.jpg  Galeria — vertical 4:5.
+  resultado-4.jpg  Galeria — vertical 4:5.
+  resultado-5.jpg  Galeria — vertical 4:5.
+  resultado-6.jpg  Galeria — vertical 4:5.
+
+Dicas
+- Use fotos de antes e depois, diferentes comprimentos de cabelo e cabelos com brilho e movimento.
+- Use apenas fotos do portfólio real (Instagram @studiojanainaoficiall), com autorização
+  de quem aparece nelas.
+- Para o site carregar rápido, deixe cada foto abaixo de ~400 KB (largura de 1200 a 1600 px).
