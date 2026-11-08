@@ -1252,3 +1252,10 @@ img.is-missing {
     transform: translateZ(0);
   }
 }
+/* Aplica essa folga extra SOMENTE em celulares (telas menores que 768px) */
+@media (max-width: 768px) {
+  .hero, 
+  section:first-of-type {
+    padding-top: 5rem; /* Ajuste esse valor se precisar de mais ou menos espaço no celular */
+  }
+}
